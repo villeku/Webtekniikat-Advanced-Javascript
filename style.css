@@ -1,0 +1,26 @@
+#submitbutton {
+    width: 10em;
+    height: 2em;
+
+}
+
+ul {
+    list-style: none;
+    margin-left: 0px;
+    padding-left: 0px;
+}
+
+#muisti {
+    border: solid black 2px;
+    width: 20em;
+}
+
+li {
+    margin-left: 0px;
+    padding-left: 0px;
+    border: solid black 2px;
+}
+
+div {
+    padding: 5px;
+}
